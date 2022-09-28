@@ -1,0 +1,115 @@
+#extend("base"):
+
+    #export("content"):
+
+        <main role="main"> <!-- Main Body Page Content -->
+            <section class="hero is-sky">
+                <div class="hero-body">
+                    <div class="container">
+                        <div class="columns">
+                            <div class="column is-12">
+                                <h1 class="title is-size-4-touch is-size-2-desktop is-uppercase is-spaced">
+                                    Your data is personal and important, BrightDay Technology will respect any and all data we are allowed to receive <span class="is-orange"><strong>.</strong></span>
+                                </h1>
+                                <h2 class="subtitle is-size-5-touch is-size-4-desktop">We look to always take steps to protect all business interactions and limit liability and risk to client data.</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section> <!-- End Hero -->
+            <section class="section" id="policy">
+                <div class="columns">
+                    <div class="column is-11">
+                        <div class="content">
+                            <h2 class="title is-size-5-touch is-size-3-desktop is-uppercase">data policy</h2>
+                            <h3 class="subtitle is-size-6-touch is-size-4-desktop">
+                                This privacy statement provides information about the personal data that BrightDay Technology may receive from our website visitors, and the ways in which BrightDay Technology may choose to use that personal information.
+                            </h3>
+                            <h3 class="is-uppercase">Website data collection</h3>
+                            <ul>
+                                <li><strong>Site Cookies:</strong>
+                                    <ul>
+                                        <li>
+                                            <p>
+                                            Through the approval of use, cookies can collect data that can track and report on your personal usage of this website and resources. This information can be used for site optimization, analytics, and quality controls.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <strong>Data Directly Submited by User:</strong>
+                                    <ul>
+                                        <li>
+                                            <p>
+                                                Information that is sent back intentionally with a purpose known by the user. This can be registering with the website, requesting additional action, purchases, also (inquires, posts, messages, and chat conversations). This information is used for building and maintaining customer relationships.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <h3 class="is-uppercase">forms of data usage</h3>
+                            <ul>
+                                <li>
+                                    <p>Administer this website:</p>
+                                </li>
+                                <li>
+                                    <p>Personalize the website for you:</p>
+                                </li>
+                                <li>
+                                    <p>Enable your access to and use of website services:</p>
+                                </li>
+                                <li>
+                                    <p>Publish information about you on the website (only with your direct consent):</p>
+                                </li>
+                                <li>
+                                    <p>Send to you products that you purchase:</p>
+                                </li>
+                                <li>
+                                    <p>Supply to you services that you purchase:</p>
+                                </li>
+                                <li>
+                                    <p>Send to you statements and invoices:</p>
+                                </li>
+                                <li>
+                                    <p>Collection of payments:</p>
+                                </li>
+                                <li>
+                                    <p>Send you marketing communications:</p>
+                                </li>
+                            </ul>
+                            <p>
+                            Where BrightDay Technology discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
+                            </p>
+                            <p>
+                            In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, BrightDay Technology may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+                            </p>
+                            <h3 class="is-uppercase">securing your data</h3>
+                            <p>
+                            Operating of the mindset that our client's business data, including their determined goals hold significant importance and sensitive strategic value.
+                            </p>
+                            <p>
+                            BrightDay Technology will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. Storing all the personal information you provide on secured infrastructure, devices, and equipment for a stated period of time.
+                            </p>
+                            <p>
+                            Data relating to electronic communications and transactions entered within this website will be  protected by encryption technology.
+                            </p>
+                            <h3 class="is-uppercase">updating this statement</h3>
+                            <p>
+                            BrightDay Technology may update this privacy policy by posting a new version on this website. You should check this page occasionally to ensure you are familiar with any changes.
+                            </p>
+                            <h3 class="is-uppercase">other websites</h3>
+                            <p>
+                            Links to other websites or third party services, BrightDay Technology does <strong>not</strong> accept or claim responsibility for the privacy policies, or practices of any third party. We will work to choose partners that have similar data policies as our own, with documented, demonstrated and practiced policies that reflect in the importance of data and privacy.
+                            </p>
+                            <p>
+                            <h4 class="is-uppercase">feedback, questions, or concerns</h4>
+                            If you have any questions or concerns at any time related to our stated <strong>Data Policy</strong> please feel free to contact a company representative so that it can be addressed accordingly.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+    
+#endexport
+
+#endextend

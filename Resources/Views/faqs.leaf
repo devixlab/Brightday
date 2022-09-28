@@ -1,0 +1,145 @@
+#extend("base"):
+
+    #export("content"):
+
+        <!-- Main Body Page Content -->
+        <main role="main"><br><br>
+            <div class="level titlebar">
+                <div class="level-left">
+                    <div class="level-item">
+                        <p class="has-text-sky" aria-label="FAQ's Page">#(pageTitle)</p> <!-- Page title-->
+                    </div>
+                </div>
+            </div>
+            <section class="hero is-sky">
+                <div class="hero-body">
+                    <div class="container">
+                        <div class="columns">
+                            <div class="column is-12">
+                                <h1 class="title is-size-4-touch is-size-2-desktop is-uppercase is-spaced">
+                                    Frequently Asked Questions
+                                </h1>
+                                <h2 class="subtitle is-size-5-touch is-size-4-desktop">Brief answers to a few commonly addressed concerns</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section> <!-- End Hero -->
+            <section class="section" id="faq's">
+                <div class="columns">
+                    <div class="column is-11">
+                        <div class="columns">
+                            <div class="column is-10 is-offset-1">
+                                <details>
+                                    <summary> <!-- FAQ #1 -->
+                                        <strong>What are some examples of how our services help?</strong>
+                                    </summary>
+                                    <details>
+                                        <summary> <!-- Sub topic -->
+                                            Fulfill a need:
+                                        </summary>
+                                        <p>
+                                        Serve as a stopgap, providing necessary tools or resources to properly address the complexities of technology.
+                                        </p>
+                                    </details>
+                                    <details>
+                                        <summary> <!-- Sub topic -->
+                                            Focused purpose:
+                                        </summary>
+                                        <p>
+                                        Our tailored services provide a powerful medium and ability to scale for the intended purpose.
+                                        </p>
+                                    </details>
+                                    <details>
+                                        <summary> <!-- Sub topic -->
+                                            As needed:
+                                        </summary>
+                                        <p>
+                                        It may not be economically feasible to have different specialized subject matter experts employed full-time.
+                                        </p>
+                                    </details>
+                                    <details>
+                                        <summary> <!-- Sub topic -->
+                                            Enabling:
+                                        </summary>
+                                        <p>
+                                        In offering pathways the process is broken down, your team gains the understanding of how and why, and gains skill(s) and experience during implementation of solution.
+                                        </p>
+                                    </details>
+                                </details>
+
+                                <details>
+                                    <summary> <!-- FAQ #2 -->
+                                        <strong>Who is this best suited for?</strong>
+                                    </summary>
+                                    <p>
+                                    While always willing to help, being mindful of our client commitments and following our SLA standards has priority. That said certain conditions and situations can prove beneficial to the process.
+                                    </p>
+                                    <details>
+                                        <summary>
+                                            Defined Goals: <!-- Sub topic -->
+                                        </summary>
+                                        <p>
+                                        Having a purpose, helps to determine scope, set expectations, and establish desire to achieve.
+                                        </p>
+                                    </details>
+                                    <details>
+                                        <summary>
+                                            Respect Technology: <!-- Sub topic -->
+                                        </summary>
+                                        <p>
+                                        Awareness of technology and IT's potential impact for business, builds to the importance and significance of effective use.
+                                        </p>
+                                    </details>
+                                    <details>
+                                        <summary>
+                                            Value Information: <!-- Sub topic -->
+                                        </summary>
+                                        <p>
+                                        Creates a drive to seek knowledge, that can be used to better leverage information and data to make informed business decisions and using verifiable results.
+                                        </p>
+                                    </details>
+                                </details>
+                                <details>
+                                    <summary> <!-- FAQ #3 -->
+                                        <strong>Why a outside consultant?</strong>
+                                    </summary>
+                                    <p>
+                                    Consultants can serve as a stopgap, providing a powerful medium and ability to scale for intended purpose. Businesses don't always have the necessary tools or resources to properly address the complexities of technology. In providing pathway(s) to your determined goals, it allows you to make informed decisions that best represent business needs.
+                                    </p>
+                                </details>
+                                <details>
+                                    <summary> <!-- FAQ #4 -->
+                                        <strong>Logistics?</strong>
+                                    </summary>
+                                    <p>
+                                    Our current services offered afford the capabilities of partnering with your teams, without location limitations. Services can be delivered in conjunction with your existing onsite company representative(s). In working remotely communucation becomes a key determining factor in the ability to accomplish the set task(s).
+                                    </p>
+                                </details>
+                                <details>
+                                    <summary> <!-- FAQ #5 -->
+                                        <strong>Pricing?</strong>
+                                    </summary>
+                                    <p>
+                                    While every project is unique, some common structures are built into the process. For non-reoccurring project based partnerships, milestone payments are used. Pricing is outlined, disclosed and agreed to in the signed project documentation.
+                                    </p>
+                                </details>
+                                <p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="section">
+                <div class="container">
+                    <h4 class="title is-size-5-touch is-size-4-desktop is-uppercase is-spaced">your question not listed here?</h4>
+                    <h5 class="subtitle is-size-6-touch is-size-5-desktop is-spaced">
+                        Don’t see a topic addressed that you would like to know more about, please contact a company representative so that you can get the relevant information.
+                    </h5>
+                </div>
+            </section>
+        </main>
+
+#endexport
+
+#endextend

@@ -1,0 +1,97 @@
+#set("content") {
+<!-- Main Body Page Content -->
+<main role="main"><br><br>
+    <div class="level titlebar">
+        <div class="level-left">
+            <div class="level-item">
+                <p class="has-text-sky">#(pageTitle)</p> <!-- Page title-->
+            </div>
+        </div>
+    </div>
+    
+    <article>
+        <div class="hero is-sky">
+            <div class="hero-body">
+                <div class="container">
+                    <div class="columns">
+                        <div class="column is-12">
+                            <h1 class="title is-size-4-touch is-size-2-desktop is-uppercase is-spaced">
+                                Current news and events<span class="is-orange">.</span>
+                            </h1>
+                            <h2 class="subtitle is-size-5-touch is-size-4-desktop"><span class="is-yellow">Posts</span>, <span class="is-yellow">changes</span>, and <span class="is-yellow">updates</span> an informational resource for BrightDay Technology.</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- End Hero -->
+        <section class="section" id="news">
+            <div class="container">
+                <div class="columns">
+                    <div class="column is-4 is-offset-1">
+                        <div class="tags has-addons is-centered" aria-label="Company News" aria-hidden="true">
+                            <a class="tablinks" onclick="openService(event, 'defaultMsg')">
+                                <span class="tag is-dark">Recent</span><span class="tag is-info">Company News</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="column is-7">
+                        <div class="tabcontent active" id="defaultMsg">
+                            <div class="content">
+                                <h5>
+                                Select a title of intrest for a brief description.
+                                </h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                <div class="columns">
+                    <div class="column is-4 is-offset-1">
+                        <div class="content">
+                            <h5 class="title is-size-5-desktop is-size-6-touch is-uppercase">post</h5>
+                            <a class="tablinks" onclick="openService(event, '112019Msg')">
+                                <span class="is-orange"><strong>11/20/19- New look, New Web Address!</strong></span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="column is-7">
+                        <div class="tabcontent" id="112019Msg">
+                            <div class="content">
+                                <h5 class="title is-size-5-desktop is-size-6-touch">Description</h5>
+                                <p>
+                                Company announcement we have a new web address with a whole new look and feel!<a class="buttom" href="/112019">  read more...</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="columns">
+                <div class="column is-4 is-offset-1">
+                    <div class="content">
+                        <h5 class="title is-size-5-desktop is-size-6-touch is-uppercase">post</h5>
+                        <a class="tablinks" onclick="openService(event, '110119Msg')">
+                            <span class="is-orange"><strong>11/01/19- New graphics, New Logo!</strong></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="column is-7">
+                    <div class="tabcontent" id="110119Msg">
+                        <div class="content">
+                            <h5 class="title is-size-5-desktop is-size-6-touch">Description</h5>
+                            <p>
+                            Company announcement we have a new logo and updated social banners!<a class="buttom" href="/110119" target="_parent">  read more...</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+            
+        <section class="is-medium" id="news">
+            #get(newsContent)
+        </section>
+    </article>
+</main>
+}
+#embed("base")

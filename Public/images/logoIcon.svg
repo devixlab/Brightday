@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 18 16" width="18px" height="16px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient-0" gradientUnits="userSpaceOnUse" x1="123.886" y1="83.938" x2="123.886" y2="147.938" gradientTransform="matrix(0.85548, -0.623808, 0.631368, 0.635448, -34.879796, 145.60027)" spreadMethod="pad">
+      <stop offset="0" style="stop-color: rgb(253, 250, 160);"/>
+      <stop offset="1" style="stop-color: rgba(237, 250, 198, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-6" gradientUnits="userSpaceOnUse" x1="106.514" y1="143.479" x2="106.514" y2="181.344" gradientTransform="matrix(0.924359, -0.456978, 0.868569, 0.621148, -118.962866, 120.616855)">
+      <stop offset="0" style="stop-color: rgba(253, 250, 160, 1)"/>
+      <stop offset="1" style="stop-color: rgba(251, 245, 60, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-2" gradientUnits="userSpaceOnUse" x1="123.886" y1="83.938" x2="123.886" y2="147.938" gradientTransform="matrix(0.860845, -0.617923, 0.536596, 0.554983, -20.176302, 151.70529)" spreadMethod="pad">
+      <stop offset="0" style="stop-color: rgb(254, 220, 52);"/>
+      <stop offset="1" style="stop-color: rgba(237, 250, 198, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-4" gradientUnits="userSpaceOnUse" x1="179.053" y1="130.566" x2="179.053" y2="168.431" gradientTransform="matrix(0.907193, -0.483219, 0.720479, 0.697637, -78.624825, 139.374908)">
+      <stop offset="0" style="stop-color: rgb(254, 220, 52);"/>
+      <stop offset="1" style="stop-color: rgba(203, 196, 4, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-8" gradientUnits="userSpaceOnUse" x1="123.886" y1="83.938" x2="123.886" y2="147.938" gradientTransform="matrix(0.90895, -0.586165, 0.429804, 0.378717, -21.427074, 163.681609)">
+      <stop offset="0" style="stop-color: rgba(249, 186, 26, 1)"/>
+      <stop offset="1" style="stop-color: rgba(253, 171, 6, 0.62);"/>
+    </linearGradient>
+    <linearGradient id="gradient-7" gradientUnits="userSpaceOnUse" x1="183.931" y1="133.83" x2="183.931" y2="168.645" gradientTransform="matrix(0.636416, -0.452068, 0.933458, 0.450808, -64.172853, 172.643913)">
+      <stop offset="0" style="stop-color: rgba(249, 186, 26, 1)"/>
+      <stop offset="1" style="stop-color: rgba(251, 200, 71, 0.13);"/>
+    </linearGradient>
+    <linearGradient id="gradient-3" gradientUnits="userSpaceOnUse" x1="123.886" y1="83.938" x2="123.886" y2="147.938" gradientTransform="matrix(0.81104, -0.693222, 0.424436, 0.367128, -0.394673, 187.093368)" spreadMethod="pad">
+      <stop offset="0" style="stop-color: rgb(242, 152, 62);"/>
+      <stop offset="1" style="stop-color: rgba(237, 250, 198, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-5" gradientUnits="userSpaceOnUse" x1="179.053" y1="130.566" x2="179.053" y2="168.431" gradientTransform="matrix(0.857087, -0.531374, 0.692844, 0.537228, -64.656014, 175.045329)">
+      <stop offset="0" style="stop-color: rgba(242, 152, 62, 1)"/>
+      <stop offset="1" style="stop-color: rgba(189, 101, 13, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-1" gradientUnits="userSpaceOnUse" x1="123.886" y1="83.938" x2="123.886" y2="147.938" gradientTransform="matrix(0.88313, -0.566363, 0.311609, 0.339848, 5.704384, 174.980381)" spreadMethod="pad">
+      <stop offset="0" style="stop-color: rgb(229, 77, 26);"/>
+      <stop offset="1" style="stop-color: rgba(237, 250, 198, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-9" gradientUnits="userSpaceOnUse" x1="277.722" y1="140.029" x2="277.722" y2="177.894" gradientTransform="matrix(0.713522, -0.701842, 0.554302, 0.564965, 4.266005, 274.35903)">
+      <stop offset="0" style="stop-color: rgba(229, 77, 26, 1)"/>
+      <stop offset="1" style="stop-color: rgba(137, 46, 16, 0);"/>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(0.045, 0, 0, 0.047364, 5.481842, 4.037268)" style="">
+    <title>Sun</title>
+    <g transform="matrix(0.717351, -0.434137, 0.658077, 0.875425, -248.135056, 58.54826)">
+      <title>Ray 1</title>
+      <circle style="fill: url(#gradient-0);" cx="123.886" cy="115.938" r="30.448" transform="matrix(0.730062, 0.238251, -0.269489, 0.520353, 38.09227, 52.320576)">
+        <title>Top</title>
+      </circle>
+      <path style="fill: url(#gradient-6);" d="M 113.738 139.909 L 130.634 181.344 L 73.665 159.861" transform="matrix(0.950657, 0.310244, -0.310244, 0.950657, 55.642914, -25.031452)">
+        <title>Bottom</title>
+      </path>
+    </g>
+    <g transform="matrix(1.218649, -0.192804, 0.326748, 1.662696, -288.797028, -141.891312)">
+      <title>Ray 2</title>
+      <circle style="fill: url(#gradient-2);" cx="123.886" cy="115.938" r="32" transform="matrix(0.730062, 0.238251, -0.269489, 0.520353, 110.630692, 39.407486)">
+        <title>Top</title>
+      </circle>
+      <path style="fill: url(#gradient-4);" d="M 187.89 126.389 L 203.173 168.431 L 148.533 148.665" transform="matrix(0.950657, 0.310244, -0.310244, 0.950657, 55.216024, -48.17341)">
+        <title>Bottom</title>
+      </path>
+    </g>
+    <g transform="matrix(1.239787, 0.39322, -0.824035, 2.091657, -19.510567, -358.266144)">
+      <title>Ray 3</title>
+      <circle style="fill: url(#gradient-8);" cx="123.886" cy="115.938" r="32" transform="matrix(0.730062, 0.238251, -0.269489, 0.520353, 110.630692, 39.407486)">
+        <title>Top</title>
+      </circle>
+      <path style="fill: url(#gradient-7);" d="M 177.934 132.246 L 214.578 168.645 L 145.497 151.135" transform="matrix(0.874059, 0.285246, -0.827431, 0.874058, 148.303054, -33.418348)">
+        <title>Bottom</title>
+      </path>
+    </g>
+    <g transform="matrix(0.780769, 0.83502, -1.441536, 1.085146, 250.447678, -246.597504)">
+      <title>Ray 4</title>
+      <circle style="fill: url(#gradient-3);" cx="123.886" cy="115.938" r="32" transform="matrix(0.730062, 0.238251, -0.269489, 0.520353, 110.630692, 39.407486)">
+        <title>Top</title>
+      </circle>
+      <path style="fill: url(#gradient-5);" d="M 188.717 130.441 L 203.173 168.431 L 152.014 150.3" transform="matrix(0.950657, 0.310244, -0.310244, 0.950657, 55.216035, -48.173411)">
+        <title>Bottom</title>
+      </path>
+    </g>
+    <g transform="matrix(0.236212, 0.739696, -1.112302, 0.285963, 333.067871, -107.613586)">
+      <title>Ray 5</title>
+      <circle style="fill: url(#gradient-1);" cx="123.886" cy="115.938" r="32" transform="matrix(0.730062, 0.238251, -0.269489, 0.520353, 209.300186, 48.870514)">
+        <title>Top</title>
+      </circle>
+      <path style="fill: url(#gradient-9);" d="M 287.491 140.029 L 301.842 177.894 L 253.602 160.768" transform="matrix(0.950657, 0.310244, -0.310244, 0.950657, 63.020504, -78.317966)">
+        <title>Bottom</title>
+      </path>
+    </g>
+    <path d="M 199.864 209.95 C 199.864 216.51 199.293 222.94 198.196 229.197 C 199.041 167.395 148.185 116.479 84.4 115.378 C 20.461 114.275 -32.259 163.644 -33.354 225.647 C -33.388 227.595 -33.372 229.533 -33.304 231.458 C -34.674 224.493 -35.392 217.302 -35.392 209.95 C -35.392 146.953 17.27 95.884 82.235 95.884 C 147.201 95.884 199.864 146.953 199.864 209.95 Z" style="fill: rgb(250, 171, 44);">
+      <title>Outside</title>
+    </path>
+    <path d="M 81.129 129.205 C 135.313 129.205 180.069 164.858 186.953 211.046 C 173.505 171.544 132.385 142.447 83.192 141.675 C 31.946 140.869 -11.737 171.06 -24.926 212.695 C -18.871 165.709 26.302 129.205 81.129 129.205 Z" style="fill: rgb(250, 171, 44);">
+      <title>Inside</title>
+    </path>
+  </g>
+</svg>

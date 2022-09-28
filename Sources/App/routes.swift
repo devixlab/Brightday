@@ -1,14 +1,11 @@
-import Fluent
 import Vapor
 
+/// Register your application's routes here.
 func routes(_ app: Application) throws {
-    app.get { req async throws in
-        try await req.view.render("index", ["title": "Hello Vapor!"])
+    
+    // Route for WebsiteController
+        let websiteController = WebMainController()
+    try app.register(collection: websiteController)
+    
     }
 
-    app.get("hello") { req async -> String in
-        "Hello, world!"
-    }
-
-    try app.register(collection: TodoController())
-}

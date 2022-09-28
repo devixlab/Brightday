@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg role="img" aria-labelledby="title desc" viewBox="0 0 71 84.2" xmlns="http://www.w3.org/2000/svg">
+  <desc>Our proactive policies look to spotlight the benefits of preparing for business challenges</desc>
+  <title>TargetGoal</title>
+  <defs>
+    <linearGradient id="linearGradient5784" y2="145.91" gradientUnits="userSpaceOnUse" x2="-150.66" y1="-35.774" x1="-150.66" gradientTransform="matrix(0.156405, 0, 0.049626, 0.13501, 326.29771, 176.239307)">
+      <stop id="stop5490-9" style="stop-color:#fb9e00" offset="0"/>
+      <stop id="stop5492-3" style="stop-color:#f44f00" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, -288.232483, -117.809654)" lang="en" role="img" class="TargetGoal">
+    <title>targetGoalBlock</title>
+    <g id="g-1" transform="matrix(-1.624998, 0, 0, 1.603987, 363.269012, -1488.778198)" style="">
+      <title>Block</title>
+      <g id="g3000" transform="translate(-6,1003)">
+        <path id="path2987" d="m30 2.3622-20 10 20 10 20-10z" style="fill:#f9f9f9"/>
+        <path id="path2989" style="fill:#ececec" d="m30 22.362v25l20-10v-25z"/>
+        <path id="path2991" d="m30 22.362v25l-20-10v-25z" style="fill:#cccccc"/>
+        <path id="path2993" d="m30 2.375-20 10v25l20 10 20-10v-25l-20-10z" style="stroke:#4d4d4d;stroke-width:1px;fill:none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 3.026812, -16.649042)">
+      <title>Icon</title>
+      <path id="path5778" style="fill:#f44800" d="M 320.432 183.673 C 323.087 190.899 318.54 196.756 310.275 196.756 C 302.009 196.756 293.156 190.899 290.5 183.673 C 287.844 176.448 292.392 170.591 300.657 170.591 C 308.923 170.591 317.776 176.448 320.432 183.673 Z" transform="matrix(0.938602, 0.345002, -0.345002, 0.938602, 82.122609, -94.109022)"/>
+      <path id="path5780" style="fill:url(#linearGradient5784)" d="M 319.674 183.674 C 322.164 190.447 317.821 195.938 309.974 195.938 C 302.127 195.938 293.748 190.447 291.258 183.674 C 288.768 176.9 293.111 171.409 300.958 171.409 C 308.805 171.409 317.184 176.9 319.674 183.674 Z" transform="matrix(0.938602, 0.345002, -0.345002, 0.938602, 82.122727, -94.109175)"/>
+    </g>
+    <g id="layer1" transform="matrix(-0.041799, 0, -0.000001, 0.037892, 322.585876, 155.45079)" style="">
+      <title>Goal</title>
+      <path id="path28" style="stroke-width: 2.7096; fill: rgb(255, 255, 255);" d="m221.73 379.87v-36.818c0-12.805-55.439-108.57-64.9-112.81-9.4603-4.2484-60.347-5.6559-60.347-5.6559v9.3934s50.533-1.5971 57.036 3.8641c7.811 6.5587 53.183 89.059 59.493 103.42 2.4513 5.5809 0.99751 40.246 0.99751 40.246l7.7196-1.639z"/>
+      <polygon id="polygon35" style="stroke-width: 5; fill: rgb(255, 255, 255);" points="-101.14 435.93 -104.77 471.69 120.56 423.77 120.56 414.9" transform="matrix(.67811 0 0 .67672 139.53 95.393)"/>
+      <path id="path37" style="stroke-width: 3.3871; fill: rgb(255, 255, 255);" d="m80.288 407.57c-1.6451 6.3652-18.44 8.4989-18.44 8.4989l18.821-185.15s0.92832-4.4182 4.1574-5.0171l9.0222-1.6722-11.893 175.84c0.000613-0.00064-0.38762 2.5411-1.6675 7.494z"/>
+      <path id="path39" style="stroke-width: 3.3871; fill: rgb(255, 255, 255);" d="m223.82 382.31c5.5164-1.1701 363.6 4.9657 363.6 4.9657l23.402-10.377s-383.77-0.42604-388.82-0.73281c0-0.00074-0.92702 6.7292 1.824 6.1446z"/>
+      <path id="path41" style="stroke-width: 3.3871; fill: rgb(255, 255, 255);" d="m459.76 186.68s47.276 6.1919 60.255 11.966c11.814 5.2547 73.038 115.45 81.034 133.65 3.1058 7.0704 1.2633 50.991 1.2633 50.991l9.781-2.0754v-46.649c0-16.224-66.808-132.09-83.545-144.39-17.646-12.971-67.225-17.327-67.225-17.327"/>
+      <polyline id="polyline48" style="stroke-width: 6; fill: rgb(255, 255, 255);" points="411.39 483.07 696.89 422.36 696.89 411.12 415.98 437.76 411.39 483.07" transform="matrix(.67811 0 0 .67672 139.53 95.393)"/>
+      <path id="path50" style="fill: rgb(255, 255, 255);" d="m128.73 231.63 19.808-1.7364 12.508 2.7705s-13.384-3.5548-9.0812 3.3688c1.7631 2.8354-23.235-4.4028-23.235-4.4028z"/>
+      <g id="g52" transform="matrix(.67811 0 0 .67672 139.53 95.393)">
+        <line id="line54" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="161.2" x2="500.08" y1="421.43" x1="480.36"/>
+        <line id="line56" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="163.3" x2="518.48" y1="421.43" x1="500.08"/>
+        <line id="line58" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="415.16" x2="518.48" y1="169.5" x1="538.48"/>
+        <line id="line60" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="169.5" x2="554.82" y1="415.51" x1="542.76"/>
+        <line id="line62" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="185.94" x2="576.26" y1="413.3" x1="566.05"/>
+        <line id="line64" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="216.35" x2="595.13" y1="411.41" x1="585.93"/>
+        <line id="line66" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="246.8" x2="612.76" y1="409.48" x1="606.26"/>
+        <line id="line68" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="285.84" x2="634.53" y1="407.35" x1="628.71"/>
+        <line id="line70" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="319.32" x2="652.56" y1="405.66" x1="646.61"/>
+        <line id="line72" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="185.94" x2="576.26" y1="174.17" x1="480.36"/>
+        <line id="line74" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="216.35" x2="595.13" y1="205.24" x1="475.36"/>
+        <line id="line76" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="253.19" x2="616.38" y1="246.8" x1="480.36"/>
+        <line id="line78" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="285.84" x2="634.53" y1="285.84" x1="469.92"/>
+        <line id="line80" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="328.14" x2="657.17" y1="334.34" x1="469.92"/>
+        <line id="line82" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="362.49" x2="668.86" y1="369.16" x1="464.3"/>
+        <line id="line84" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="389.89" x2="669.18" y1="400" x1="468.44"/>
+      </g>
+      <g id="g-2" transform="matrix(0.558918, 0, 0.000008, 0.557773, -171.337372, 145.581207)">
+        <line id="line-1" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="161.2" x2="500.08" y1="421.43" x1="480.36"/>
+        <line id="line-2" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="163.3" x2="518.48" y1="421.43" x1="500.08"/>
+        <line id="line-3" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="415.16" x2="518.48" y1="169.5" x1="538.48"/>
+        <line id="line-4" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="169.5" x2="554.82" y1="415.51" x1="542.76"/>
+        <line id="line-5" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="185.94" x2="576.26" y1="413.3" x1="566.05"/>
+        <line id="line-6" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="216.35" x2="595.13" y1="411.41" x1="585.93"/>
+        <line id="line-7" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="246.8" x2="612.76" y1="409.48" x1="606.26"/>
+        <line id="line-8" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="285.84" x2="634.53" y1="407.35" x1="628.71"/>
+        <line id="line-9" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="319.32" x2="652.56" y1="405.66" x1="646.61"/>
+        <line id="line-10" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="185.94" x2="576.26" y1="174.17" x1="480.36"/>
+        <line id="line-11" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="216.35" x2="595.13" y1="205.24" x1="475.36"/>
+        <line id="line-12" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="253.19" x2="616.38" y1="246.8" x1="480.36"/>
+        <line id="line-13" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="285.84" x2="634.53" y1="285.84" x1="469.92"/>
+        <line id="line-14" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="328.14" x2="657.17" y1="334.34" x1="469.92"/>
+        <line id="line-15" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="362.49" x2="668.86" y1="369.16" x1="464.3"/>
+        <line id="line-16" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 11.1139px;" y2="389.89" x2="669.18" y1="400" x1="468.44"/>
+      </g>
+      <path id="path120" style="stroke:#231f20;stroke-width:1.3548;fill:none" d="m69.425 382.31"/>
+      <path id="path122" style="stroke-width: 5.4193; fill: rgb(255, 255, 255);" d="m418.5 422.29s21.28-2.7015 23.365-10.768c1.6207-6.2739 2.1137-9.4936 2.1137-9.4936l15.068-222.8-16.399-2.0301-24.147 245.09"/>
+      <path id="path129" style="stroke-width: 3.3871; fill: rgb(255, 255, 255);" d="m461.33 172.84s-368.62 52.885-373.61 52.802c-10.227-0.17006-5.6418 11.686-0.12749 10.905 5.515-0.7803 372.18-49.877 372.18-49.877l1.5644-13.831"/>
+      <path id="path131" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 7.52908px;" d="m188.19 236.59c55.777 86.107 48.996 67.159 55.777 86.107 6.7811 18.948 2.7124 43.382 2.7124 43.382"/>
+      <path id="path133" style="stroke-width: 0.67741; fill: none; stroke: rgb(255, 255, 255);" d="m208.35 235c55.777 86.106 48.996 67.158 55.777 86.106 6.7811 18.948 2.7124 43.381 2.7124 43.381"/>
+      <path id="path135" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 7.52908px;" d="m238.2 235c55.777 86.107 48.996 67.159 55.777 86.107 6.7811 18.948 2.7124 43.381 2.7124 43.381"/>
+      <path id="path137" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 7.52908px;" d="m268.72 224.61c55.777 94.049 48.996 73.353 55.777 94.049 6.7811 20.695 2.7124 47.382 2.7124 47.382"/>
+      <path id="path139" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 7.52908px;" d="m305.64 220.55c55.777 98.3 48.996 76.669 55.777 98.3 6.7811 21.632 2.7124 49.525 2.7124 49.525"/>
+      <path id="path141" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 7.52908px;" d="m353.24 214.91c55.778 98.301 48.997 76.669 55.778 98.301 6.7811 21.631 2.7124 49.525 2.7124 49.525"/>
+      <path id="path143" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 7.52908px;" d="m397.21 210.1c17.631 35.449 21.286 49.92 21.286 49.92"/>
+      <path id="path145" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 7.52908px;" d="m201.36 256.75c220.27-26.09 220.27-26.09 220.27-26.09"/>
+      <path id="path147" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 7.52908px;" d="m208.16 281.48c210.34-21.46 210.34-21.46 210.34-21.46"/>
+      <path id="path149" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 7.52908px;" d="m221.85 308.71c198.42-21.2 198.42-21.2 198.42-21.2"/>
+      <path id="path151" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 7.52908px;" d="m238.2 329.94c173.43-5.1924 173.43-5.1924 173.43-5.1924"/>
+      <path id="path153" style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 7.52908px;" d="m238.2 350.41c180.72 2.0592 180.72 2.0592 180.72 2.0592"/>
+      <path id="path157" style="stroke-width: 1.3548; fill: none; stroke: rgb(255, 255, 255);" d="m438.62 422.79"/>
+    </g>
+    <g style="" transform="matrix(0.459973, 0.018504, 0, 0.420149, 192.892151, 67.823654)">
+      <title>Target</title>
+      <circle style="stroke-width: 0.795315px; stroke: rgb(255, 255, 255); fill: rgb(248, 120, 0); fill-opacity: 0.5;" cx="259" cy="228" r="13"/>
+      <circle style="stroke-width: 0.795315px; fill: rgb(248, 120, 0); stroke: rgb(255, 255, 255); fill-opacity: 0.3;" cx="259" cy="228" r="8"/>
+      <circle style="stroke-width: 0.636252px; fill: rgb(255, 255, 255);" cx="258.825" cy="227.825" r="3"/>
+      <line style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 0.848336px;" x1="258.967" y1="243.106" x2="258.967" y2="213"/>
+      <line style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 0.848336px;" x1="243.727" y1="228.067" x2="274.139" y2="228.067"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,175 @@
+#extend("base"):
+    #export("content"):
+        
+        <!-- Main Body Page Content -->
+        <main role="main"><br><br>
+            <div class="level titlebar">
+                <div class="level-left">
+                    <div class="level-item">
+                        <p class="has-text-sky" aria-label="Services Page">#(pageTitle)</p> <!-- Page title-->
+                    </div>
+                </div>
+            </div>
+            
+            <article>
+                <section class="hero is-sky">
+                    <div class="hero-body">
+                        <div class="container">
+                            <div class="columns">
+                                <div class="column is-12">
+                                    <h1 class="title is-size-4-touch is-size-2-desktop is-uppercase is-spaced">
+                                        SMB to enterprise grow your effective use of technology, develop strategies to<span class="is-orange">...</span>
+                                    </h1>
+                                    <h2 class="subtitle is-size-5-touch is-size-4-desktop"><span class="is-yellow">Plan</span>, <span class="is-yellow">Build</span>, and <span class="is-yellow">Adapt</span>. Services developed to research and communicate complex subject matter, increasing flexibility, focus and feasibility.</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section> <!-- End Hero -->
+                <section class="section" id="">
+                    <div class="tabs is-medium is-toggle is-boxed is-centered" role="button" aria-label="Our Services">
+                        <ul>
+                            <li>
+                                <a class="tablinks" onclick="openService(event, 'consulting')">Consulting</a>
+                            </li>
+                            
+                            <li>
+                                <a class="tablinks" onclick="openService(event, 'mentoring')">Mentoring</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="container">
+                        
+                        <!-- Service Tab Content -->
+                        <div class="tabcontent active" id="consulting" aria-label="consulting services">
+                            <div class="columns">
+                                <div class="column is-11 is-offset-1">
+                                    <div class="content">
+                                        <p class="title is-size-4-touch is-size-3-desktop">
+                                        Identify the tools that empower your operations, in doing so gain access to maximizing potential.
+                                        </p>
+                                        <p class="subtitle is-size-5-touch is-size-4-desktop">
+                                        A resource that provides targeted assistance that helps to build your business and achieve your determined goals.
+                                        </p>
+                                    </div>
+                                    <div class="columns">
+                                        <div class="column is-4 is-5-touch is-offset-2-touch">
+                                            <object type="image/svg+xml" data="/images/serviceToken.svg" title="Work that we do, thru services offered by BrightDay Technology">
+                                                services token image
+                                            </object>
+                                        </div>
+                                        <div class="container">
+                                            <div class="column is-9">
+                                                <div class="content">
+                                                    <ul>
+                                                        <li>
+                                                            <p>Stay agile, keep pace with constant change, identify emerging technologies, gain a competitive edge.</p>
+                                                        </li>
+                                                        <li>
+                                                            <p>Supplement capacity using precisely targeted objective based and customized service.</p>
+                                                        </li>
+                                                        <li>
+                                                            <p>Delivering greater focus, and ability, to operate and facilitate growth in business. Access to additional knowledge, experience, and technology acumen.</p>
+                                                        </li>
+                                                        <li>
+                                                            <p>Offloading of resource intensive tasks, broaden your team's scope of capabilities. Accomplish more with the personnel you already have.</p>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tabcontent" id="mentoring" aria-label="mentoring services">
+                            <div class="columns">
+                                <div class="column is-11 is-offset-1">
+                                    <div class="content">
+                                        <p class="title is-size-4-touch is-size-3-desktop">
+                                        Elevate capability, capacity, and proficiency of both the tools and the people that utilize them.
+                                        </p>
+                                        <p class="subtitle is-size-5-touch is-size-4-desktop">
+                                        Services utilized to augment business structure, remediate areas of concern, develop concepts, and assist in underrepresented IT operations.
+                                        </p>
+                                    </div>
+                                    <div class="columns">
+                                        <div class="column is-4 is-5-touch is-offset-2-touch">
+                                            <object type="image/svg+xml" data="/images/goalPathways.svg" title="Work that we do, thru services offered by BrightDay Technology">
+                                                Mentoring pathways
+                                            </object>
+                                        </div>
+                                        <div class="container">
+                                            <div class="column is-8">
+                                                <div class="content">
+                                                    <ul>
+                                                        <li>
+                                                            <p>
+                                                            <strong>Information resource:</strong> Increase awareness to impactful issues, trends, and emerging technologies. Expand access to subject matter and Research and Development.
+                                                            </p>
+                                                        </li>
+                                                        <li>
+                                                            <p>
+                                                            <strong>Level up capability:</strong> Supplement knowledge ability and skill, offset limitations. Increase effectiveness and find personalized goal pathways.
+                                                            </p>
+                                                        </li>
+                                                        <li>
+                                                            <p>
+                                                            <strong>Identify and develop talent:</strong> Build on self-reliance grooming and growing internal talent. Provide the tools to enable and empower your resources.
+                                                            </p>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
+                <section class="is-medium" id="benefit">
+                    <div class="hero is-sky">
+                        <div class="hero-body">
+                            <div class="container">
+                                <div class="columns">
+                                    <div class="column is-12">
+                                        <div class="tile is-ancestor">
+                                            <div class="tile is-parent">
+                                                <div class="is-child">
+                                                    <h3 class="title is-size-4-mobile is-uppercase">Make IT work for you</h3>
+                                                    <div class="content">
+                                                        <ul class="is-clean">
+                                                            <li>
+                                                                <p class="hasSpace">
+                                                                <span class="standoutText">I</span>nformation <span class="standoutText">T</span>echnology applied as a tool to accomplish modern and future business tasks, needs purpose and the capability to be used in an effective manner. Identifying, choosing, and using these business tools has lasting impact to your operations in both positive and negative ways.
+                                                                </p>
+                                                            </li>
+                                                            <li>
+                                                                <p class="hasSpace">
+                                                                Understanding, planning, and implementing for both the risk as well as the reward play's a critical role in the successful use of any business strategy. While we do not know your current strategy, we do understand that IT is a fluid and complex array of topics that work to empower business.
+                                                                </p>
+                                                            </li>
+                                                            <li>
+                                                                <p class="hasSpace">
+                                                                Our services are provided to accomplish these tasks and more; thru partnering with your team we're offering the ability for greater self reliance and preparation for future business challenges.
+                                                                </p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
+            </article>
+        </main>
+        
+    #endexport
+#endextend

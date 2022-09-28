@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 280 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip-1">
+      <path id="path-1" style="stroke:#ffffff;stroke-width:103.88;fill:none" d="M 1960.111 1027.557 C 1960.111 309.654 1182.987 -139.036 561.288 219.916 C 272.756 386.506 95.013 694.377 95.013 1027.557 C 95.013 1745.461 872.137 2194.15 1493.837 1835.198 C 1782.368 1668.608 1960.111 1360.737 1960.111 1027.557 Z"/>
+    </clipPath>
+    <clipPath id="clip-2">
+      <path id="path-2" d="m0 2055.1h2055.1v-2055.1h-2055.1v2055.1z"/>
+    </clipPath>
+    <clipPath id="clip-3">
+      <path id="path-3" d="m865.36 1005.8h384v-347h-384v347z"/>
+    </clipPath>
+  </defs>
+  <g style="" transform="matrix(1.018533, 0, 0, 0.839944, -1276.811401, -105.193024)">
+    <title>Consultation</title>
+    <g id="g-1" transform="matrix(0.137691, 0, 0, -0.166091, 1249.657837, 462.996796)" style="">
+      <title>Map</title>
+      <g id="g-2">
+        <g id="g-3" style="clip-path: url(#clip-1);" transform="matrix(0.998248, 0, 0, 1.003505, 0.166472, -0.328046)">
+          <path id="path-4" style="fill-rule: evenodd; fill: rgb(243, 244, 244);" d="m28.364 2026.8h2e3v-2e3h-2e3v2e3z"/>
+          <path id="path-5" style="fill-rule:evenodd;fill:#7fc7ed" d="m478.36 746.75h210v-190h-210v190z"/>
+          <path id="path-6" style="fill-rule: evenodd; fill: rgb(127, 199, 237);" d="m1878.4 196.75h150v-170h-150v170z"/>
+          <path id="path-7" style="fill-rule:evenodd;fill:#7fc7ed" d="m738.36 456.75h260v-209.67h-260v209.67z"/>
+          <path id="path-8" style="fill-rule:evenodd;fill:#7fc7ed" d="m1538.4 2026.8h290v-220h-290v220z"/>
+          <path id="path-9" style="fill-rule:evenodd;fill:#83cdac" d="m1168.4 1756.8h660v-810h-660v810z"/>
+          <path id="path-10" style="fill-rule:evenodd;fill:#83cdac" d="m28.364 1756.8h140v-960h-140v960z"/>
+          <path id="path-11" style="fill-rule:evenodd;fill:#83cdac" d="m478.36 196.75h210v-170h-210v170z"/>
+          <path id="path-12" style="fill-rule:evenodd;fill:#ececec" d="m1118.4 1506.8h-950v20h950v-20z"/>
+          <path id="path-13" style="fill-rule:evenodd;fill:#ececec" d="m738.36 996.75h-570v20h570v-20z"/>
+          <path id="path-14" style="fill-rule:evenodd;fill:#ececec" d="m918.36 1906.8h-890v20h890v-20z"/>
+          <path id="path-15" style="fill-rule:evenodd;fill:#ececec" d="m478.36 606.75h-450v20h450v-20z"/>
+          <path id="path-16" style="fill-rule:evenodd;fill:#ececec" d="m2028.4 1586.8h-150v20h150v-20z"/>
+          <path id="path-17" style="fill-rule:evenodd;fill:#ececec" d="m2028.4 1016.8h-150v20h150v-20z"/>
+          <path id="path-18" style="fill-rule:evenodd;fill:#ececec" d="m2028.4 766.75h-150v20h150v-20z"/>
+          <path id="path-19" style="fill-rule:evenodd;fill:#ececec" d="m738.36 346.75h-710v20h710v-20z"/>
+          <path id="path-20" style="fill-rule:evenodd;fill:#ececec" d="m1828.4 656.75h-780v20h780v-20z"/>
+          <path id="path-21" style="fill-rule:evenodd;fill:#ececec" d="m898.36 2026.8h20v-910h-20v910z"/>
+          <path id="path-22" style="fill-rule:evenodd;fill:#ececec" d="m898.36 196.75h20v-170h-20v170z"/>
+          <path id="path-23" style="fill-rule:evenodd;fill:#ececec" d="m1578.4 676.75h20v-430h-20v430z"/>
+          <path id="path-24" style="fill-rule:evenodd;fill:#ffffff" d="m2028.4 1756.8h-2e3v50h2e3v-50z"/>
+          <path id="path-25" style="fill-rule:evenodd;fill:#ffffff" d="m738.36 746.75h-710v50h710v-50z"/>
+          <path id="path-26" style="fill-rule:evenodd;fill:#ffffff" d="m1878.4 896.75h-1147v50h1147v-50z"/>
+          <path id="path-27" style="fill-rule:evenodd;fill:#ffffff" d="m2028.4 196.75h-2e3v50h2e3v-50z"/>
+          <path id="path-28" style="fill-rule:evenodd;fill:#ffffff" d="m2028.4 1116.8h-1340v50h1340v-50z"/>
+          <path id="path-29" style="fill-rule:evenodd;fill:#ffffff" d="m168.36 2026.8h50v-2e3h-50v2e3z"/>
+          <path id="path-30" style="fill-rule:evenodd;fill:#ffffff" d="m1828.4 2026.8h50v-2e3h-50v2e3z"/>
+          <path id="path-31" style="fill-rule:evenodd;fill:#ffffff" d="m688.36 2026.8h50v-2e3h-50v2e3z"/>
+          <path id="path-32" style="fill-rule:evenodd;fill:#ffffff" d="m1118.4 1806.8h50v-910h-50v910z"/>
+          <path id="path-33" style="fill-rule:evenodd;fill:#ffffff" d="m998.36 896.75h50v-700h-50v700z"/>
+          <path id="path-34" style="fill-rule:evenodd;fill:#ffffff" d="m1488.4 2026.8h50v-910h-50v910z"/>
+          <path id="path-35" style="fill-rule:evenodd;fill:#fee379" d="m378.36 2026.8h100v-2e3h-100v2e3z"/>
+          <path id="path-36" style="fill-rule:evenodd;fill:#fee379" d="m1328.4 2026.8h100v-2e3h-100v2e3z"/>
+          <path id="path-37" style="fill-rule:evenodd;fill:#fee379" d="m2028.4 1286.8h-2e3v100h2e3v-100z"/>
+          <path id="path-38" style="fill-rule:evenodd;fill:#fee379" d="m2027.4 456.75h-1549v100h1549v-100z"/>
+          <g id="g-4" transform="matrix(1, 0, 0, 1, -90.476418, -20.000544)">
+            <g id="g-5" clip-path="url(#clip-2)">
+              <g id="g-6">
+                <g id="g-7">
+                  <g id="g-8" style="opacity:0.3" clip-path="url(#clip-3)">
+                    <g id="g-9" transform="translate(866.57 658.75)">
+                      <path id="path-39" style="fill:#d0d0d0" d="m0 0c48.69 46.36 154.72 112.35 247.51 144.89 50.55 17.73 86.91 39.46 101.97 55.07 52.3 54.2 41.88 116.38-23.29 138.89-65.17 22.5-160.41-3.19-212.71-57.4-15.07-15.6-28.34-45.31-28.73-80.36-0.7-64.34-43.2-152.26-85.96-200.67l1.21-0.42z"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="g-10" transform="translate(867.24 659.29)">
+                <path id="path-40" style="fill:#de5764" d="m0 0c4.29 83.52 50.31 219.18 117.02 304.56 36.34 46.52 53.06 91.85 53.06 119.36 0 95.54-76.54 173-170.96 173s-170.96-77.46-170.96-173c0-27.51 16.72-72.84 53.06-119.36 66.71-85.38 112.73-221.04 117.02-304.56h1.76z"/>
+              </g>
+              <g id="g-11" transform="translate(867.24 659.29)">
+                <path id="path-41" style="stroke-linejoin:round;stroke:#ec5c6a;stroke-linecap:round;stroke-miterlimit:10;stroke-width:10;fill:none" d="m0 0c4.29 83.52 50.31 219.18 117.02 304.56 36.34 46.52 53.06 91.85 53.06 119.36 0 95.54-76.54 173-170.96 173s-170.96-77.46-170.96-173c0-27.51 16.72-72.84 53.06-119.36 66.71-85.38 112.73-221.04 117.02-304.56h1.76z"/>
+              </g>
+              <g id="g-12" transform="translate(803.86 1087.3)">
+                <path id="path-42" style="fill-rule:evenodd;fill:#ffffff" d="m0 0c0 34.52 27.98 62.5 62.5 62.5s62.5-27.98 62.5-62.5-27.98-62.5-62.5-62.5-62.5 27.98-62.5 62.5"/>
+              </g>
+              <g id="g-13" transform="translate(803.86 1087.3)">
+                <path id="path-43" style="stroke-linejoin:round;stroke:#ec5c6a;stroke-linecap:round;stroke-miterlimit:10;stroke-width:5;fill:none" d="m0 0c0 34.52 27.98 62.5 62.5 62.5s62.5-27.98 62.5-62.5-27.98-62.5-62.5-62.5-62.5 27.98-62.5 62.5z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text transform="matrix(1, 0, 0, -1, 0, 0)" style="fill: rgb(110, 110, 110); font-size: 120.424px; line-height: 289.017px; text-anchor: middle; white-space: pre;" x="791.074" y="-1293.73"><title>Adaption</title>Adaptation</text>
+      <text transform="matrix(0, -1, -1, 0, 3185.010406, 1350.67453)" style="fill: rgb(110, 110, 110); font-size: 120.424px; text-anchor: middle; white-space: pre;" x="80.325" y="1842.78"><title>Greater Security</title>Greater Security</text>
+      <text transform="matrix(1, 0, 0, -1, 0, 0)" style="fill: rgb(110, 110, 110); font-size: 60.2119px; line-height: 96.3391px; white-space: pre; text-anchor: middle;" x="882.2" y="-1762.245"><title>Assessment</title>Assessment</text>
+      <text transform="matrix(1, 0, 0, -1, 0, 0)" style="fill: rgb(110, 110, 110); font-size: 60.2119px; line-height: 96.3391px; white-space: pre; text-anchor: middle;" x="1604.825" y="-1126.16"><title>Prccess</title>Proccess</text>
+      <text transform="matrix(0, -1, -1, 0, -1464.533081, 171.29248)" style="fill: rgb(110, 110, 110); font-size: 60.2119px; line-height: 96.3391px; white-space: pre; text-anchor: middle;" x="-897.513" y="-1639.97"><title>Accountability</title>Accountability</text>
+      <text transform="matrix(1, 0, 0, -1, 0, 0)" style="fill: rgb(110, 110, 110); font-size: 60.2119px; line-height: 96.3391px; white-space: pre; text-anchor: middle;" x="940.723" y="-205.424"><title>Experience</title>Experience</text>
+      <text transform="matrix(1, 0, 0, -1, 0, 0)" style="fill: rgb(110, 110, 110); font-size: 60.2119px; line-height: 96.3391px; white-space: pre;" x="493.652" y="-748.976"><title>Skill</title>Skill</text>
+      <text transform="matrix(0, -1, -1, 0, 3680.745361, 1862.873459)" style="fill: rgb(110, 110, 110); font-size: 60.2119px; line-height: 96.3391px; white-space: pre; text-anchor: middle;" x="962.978" y="1846.18"><title>Knowledge</title>Knowledge</text>
+      <text transform="matrix(1, 0, 0, -1, 0, 0)" style="fill: rgb(110, 110, 110); font-size: 140.495px; line-height: 96.3391px; white-space: pre; text-anchor: middle;" x="1018.296" y="-459.787"><title>Communication</title>Communication</text>
+      <text transform="matrix(1, 0, 0, -1, 0, 0)" style="fill: rgb(110, 110, 110); font-size: 100.353px; line-height: 96.3391px; white-space: pre;" x="1118.253" y="-1295.604"><title>Ave</title>Ave</text>
+      <text transform="matrix(0, -1, -1, 0, -529.102173, -78.469299)" style="fill: rgb(110, 110, 110); font-size: 100.353px; line-height: 96.3391px; white-space: pre; text-anchor: middle;" x="-511.591" y="-918.183"><title>Ave</title>Ave</text>
+      <text transform="matrix(1, 0, 0, -1, 0, 0)" style="fill: rgb(110, 110, 110); font-size: 100.353px; line-height: 96.3391px; white-space: pre;" x="1553.822" y="-461.742"><title>Blvd</title>Blvd</text>
+      <text transform="matrix(0, -1, -1, 0, 2894.261398, 1521.112061)" style="fill: rgb(110, 110, 110); font-size: 100.353px; white-space: pre;" x="726.675" y="1544.59"><title>St</title>St</text>
+      <text transform="matrix(1, 0, 0, -1, 0, 0)" style="fill: rgb(110, 110, 110); font-size: 50.1766px; line-height: 96.3391px; white-space: pre;" x="1071.19" y="-1758.37"><title>St</title>St</text>
+      <text transform="matrix(1, 0, 0, -1, 0, 0)" style="fill: rgb(110, 110, 110); font-size: 50.1766px; white-space: pre;" x="1136.329" y="-203.632"><title>Lane</title>Lane</text>
+      <text transform="matrix(1, 0, 0, -1, 0, 0)" style="fill: rgb(110, 110, 110); font-size: 50.1766px; line-height: 96.3391px; white-space: pre;" x="615.548" y="-749.841"><title>Rd</title>Rd</text>
+      <text transform="matrix(0, -1, -1, 0, -609.440369, 757.573334)" style="fill: rgb(110, 110, 110); font-size: 50.1766px; line-height: 96.3391px; white-space: pre;" x="-96.136" y="-784.88"><title>St</title>St</text>
+      <text transform="matrix(1, 0, 0, -1, 0, 0)" style="fill: rgb(110, 110, 110); font-size: 50.1766px; line-height: 96.3391px; white-space: pre;" x="1762.728" y="-1130.06"><title>Rd</title>Rd</text>
+      <text transform="matrix(0, -1, -1, 0, -1526.823486, 190.610107)" style="fill: rgb(110, 110, 110); font-size: 120.424px; line-height: 208.735px; text-anchor: middle; white-space: pre;" x="-755.709" y="-1910.08"><title>Understanding</title>Understanding</text>
+      <text transform="matrix(0, -1, -1, 0, 1053.905518, 616.187592)" style="fill: rgb(110, 110, 110); font-size: 50.1766px; line-height: 96.3391px; white-space: pre;" x="-96.136" y="-784.88"><title>St</title>St</text>
+      <text transform="matrix(1, 0, 0, -1, 0, 0)" style="fill: rgb(110, 110, 110); font-size: 60.2119px; line-height: 96.3391px; text-anchor: middle; white-space: pre;" x="1083.715" y="-905.348"><title>Determination</title>Determination</text>
+      <text transform="matrix(0, -1, -1, 0, 207.034424, 544.597656)" style="fill: rgb(110, 110, 110); font-size: 60.2119px; line-height: 96.3391px; text-anchor: middle; white-space: pre;" x="-1098.22" y="-1285.07"><title>Information</title>Information</text>
+      <text transform="matrix(0, -1, -1, 0, 3019.681152, 2528.666183)" style="fill: rgb(110, 110, 110); font-size: 50.1766px; line-height: 96.3391px; text-anchor: middle; white-space: pre;" x="1145.23" y="1523.81"><title>PKWY</title>PKWY</text>
+      <text transform="matrix(0, -1, -1, 0, -961.014404, 630.682007)" style="fill: rgb(110, 110, 110); font-size: 60.2119px; line-height: 96.3391px; text-anchor: middle; white-space: pre;" x="-988.559" y="-1653.08"><title>Detail</title>Detail</text>
+      <text transform="matrix(0, -1, -1, 0, 2380.916199, 2477.721191)" style="fill: rgb(110, 110, 110); font-size: 50.1766px; line-height: 96.3391px; text-anchor: middle; white-space: pre;" x="1024.82" y="1683.1"><title>Way</title>Way</text>
+      <text transform="matrix(0, -1, -1, 0, 2647.984711, 2654.026855)" style="fill: rgb(110, 110, 110); font-size: 60.2119px; line-height: 96.3391px; text-anchor: middle; white-space: pre;" x="1046.21" y="1531.83"><title>Learning</title>Learning</text>
+      <text transform="matrix(0, -1, -1, 0, 2782.080017, 2618.807373)" style="fill: rgb(110, 110, 110); font-size: 50.1766px; text-anchor: middle; white-space: pre;" x="1184.62" y="1663.8"><title>Ter</title>Ter</text>
+      <text transform="matrix(0, -1, -1, 0, 2887.797607, 1487.951218)" style="fill: rgb(110, 110, 110); font-size: 60.2119px; line-height: 96.3391px; text-anchor: middle; white-space: pre;" x="709.59" y="1890.19"><title>Policy</title>Policy</text>
+      <text transform="matrix(0, -1, -1, 0, 2680.234863, 1645.104645)" style="fill: rgb(110, 110, 110); font-size: 50.1766px; line-height: 96.3391px; text-anchor: middle; white-space: pre;" x="1024.82" y="1683.1"><title>Way</title>Way</text>
+    </g>
+  </g>
+</svg>

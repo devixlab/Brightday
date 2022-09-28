@@ -1,0 +1,24 @@
+#set("newsContent") {
+<article>
+    <div class="container">
+        <div class="content">
+            <h4 class="title is-size-4-desktop is-size-5-touch is-capitalized">
+                #(newsTitle)
+            </h4>
+            <div>
+                <p>
+                We have a whole new web design and platform release. This is a new theme and style for the site that displays both our business model and company culture. In addition to redesigning the front end, we have also reworked the supporting back end systems, platform, and infrastructures.
+                </p>
+                <p>
+                To go along with our new look we are happy to announce that we will also be moving to a new web domain. Today we would like to share that BrightDay will begin the transition to BrightDay.tech. In working to better represent our core business platform, we believe that .tech offers greater visibility to service identification and recognition. The new BrightDay.tech site is now live, and accessible to everyone. The existing domain and email accounts will still be in service during this transition and continue working into the summer of 2020. Existing email accounts have gained the .tech extension which is now the primary account, and should be reflected in contact records moving forward.
+                </p>
+                <p>
+                Our in-house design team is finishing up last minute tasks on the release and continuing to work on new features that will be shared in future posts. Our social platform pages are available if you would like to offer any constructive comments, re-post the news, or positive feedback. Please enjoy our efforts of designing, developing, and deploying the new site and web address.
+                </p>
+            </div>
+        </div>
+    </div>
+</article>
+        
+}
+#embed("news")

@@ -1,0 +1,24 @@
+#set("content") {
+<h1>#(pageTitle)</h1>
+<main>
+    <div>
+        <picture>
+            <source srcset="/images/thankyou-1sm.jpg" media="(max-width: 576px)">
+                <source srcset="/images/thankyou-1lg.jpg" media="(min-width: 577px)">
+                    <img class="" src="/img/thankyou-1.jpg" alt="" aria-hidden="true" title="Thankyou for your interest">
+                        
+                    </img>
+                    </picture>
+    </div>
+    <section id="message" class="section">
+        <div class="container is-fluid">
+            <div class="content">
+                <h4 class="title is-size-4-desktop is-size-5-touch">Thankyou #(greeting),</h4>
+                <h5 class="subtitle is-size-5-desktop is-size-6-touch">We appreciate your interest in learning how our services can help.</h5>
+                <p>A representative will be reaching out to you shortly at the provided email address of <strong>#(email)</strong> to coordinate the further exchange of information.</p>
+            </div>
+        </div>
+    </section>
+</main>
+}
+#embed("base")

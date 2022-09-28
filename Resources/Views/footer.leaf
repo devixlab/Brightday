@@ -1,0 +1,79 @@
+
+        <footer>
+            <div class="footer has-text-centered" role="contentinfo">
+                <!-- Footer 1st Row -->
+                <div class="container">
+                    <div class="columns">
+                       <!-- Footer 1st Column -->
+                        <div class="column is-2">
+                            <h3 class="title is-5">Company</h3>
+                            <div class="columns">
+                                <div class="column is-12 is-offset-3">
+                                    <div class="tile is-ancestor">
+                                        <div class="tile is-parent">
+                                            <div class="is-child">
+                                                <ul class="is-clean">
+                                                    <li><a href="#">Blog</a></li>
+                                                    <li><a href="/privacy">Data Policy</a></li>
+                                                    <li><a href="/news">News</a></li>
+                                                    <li><a href="https://cdn.forms-content.sg-form.com/ce4218fb-3ce1-11ed-a74c-be41de836f1e" target="_blank">Contact Us</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Footer 2nd Column -->
+                        <div class="column is-8">
+                            <div class="columns">
+                                <!-- Form -->
+                                #extend("formContact")
+                            </div>
+                        </div>
+                        <!-- Footer 3rd Column -->
+                        <div class="column is-2">
+                            <h3 class="title is-5">Site Map</h3>
+                            <div class="columns">
+                                <div class="column is-12 is-offset-4">
+                                    <div class="tile is-ancestor">
+                                        <div class="tile is-parent">
+                                            <div class="is-child">
+                                                <ul class="is-clean">
+                                                    <li><a href="/">Home</a></li>
+                                                    <li><a href="/services">Services</a></li>
+                                                    <li><a href="/about">About</a></li>
+                                                    <li><a href="/faqs">FAQ's</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Footer 2nd Row -->
+                <div class="columns bottomFooter">
+                    <div class="column is-4">
+                        <p>
+                        &copy; BrightDay Technology 2019
+                        </p>
+                    </div>
+                    <div class="column is-4">
+                        <p>
+                        <strong class="has-text-weight-semibold">
+                            Design by BrightDay Technology
+                        </strong>
+                        </p>
+                    </div>
+                    <div class="column is-4">
+                        <div class="tags has-addons is-centered">
+                            <span class="tag is-dark">Version</span>
+                            <span class="tag is-success">2.0.1</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+

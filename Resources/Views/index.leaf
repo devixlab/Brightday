@@ -1,12 +1,92 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
+#extend("base"):
 
-  <title>#(title)</title>
-</head>
+    #export("content"):
+        
+        <main role="main"> <!-- Main Body Page Content -->
+            <article>
+                <div class="hero is-sky">
+                    <div class="hero-body">
+                        <div class="container">
+                            <div class="columns">
+                                <div class="column is-12">
+                                    <div class="content">
+                                        <h1 class="title is-size-4-touch is-size-2-desktop is-uppercase is-spaced">
+                                            Identifying pathways and providing blueprints to enable<span class="is-orange"><strong>.</strong></span>
+                                        </h1>
+                                        <h2 class="subtitle is-size-5-touch is-size-4-desktop"><span class="is-yellow">Achieve</span> your determined <span class="is-yellow">goals</span> and utilize technology as an effective <span class="is-yellow">business tool</span>. Offering ways and means, while working to mentor greater self reliance and growth.
+                                        </h2>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- End Hero -->
+                <section class="section" id="weDo">
+                    <div class="columns">
+                        <div class="column is-11">
+                            <div class="content">
+                                <h2 class="title is-uppercase">in providing</h2>
+                            </div>
+                            <div class="columns">
+                                <div class="column is-5 is-offset-1">
+                                    <div class="tile is-ancestor">
+                                        <div class="tile is-parent">
+                                            <div class="is-child box">
+                                                <h3 class="title is-size-4-touch is-size-4-desktop is-capitalized">business consulting</h3>
+                                                <p class="subtitle is-size-5-touch is-size-5-desktop">We partner with organizations that are looking to utilize technology as a resource to help navigate current and future business challenges.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="column is-5">
+                                    <div class="tile is-ancestor">
+                                        <div class="tile is-parent">
+                                            <div class="is-child box">
+                                                <h3 class="title is-size-4-touch is-size-4-desktop is-capitalized">mentoring resource</h3>
+                                                <p class="subtitle is-size-5-touch is-size-5-desktop">Working with team members in various roles to help broaden understanding, expand ability, and increase awareness.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="columns">
+                                <div class="column is-4 is-offset-4">
+                                    <a class="button is-info is-outlined is-medium is-fullwidth is-capitalized" href="/services" aria-hidden="false" name="services" onclick="gtag('send',  'event', [onclick], ['view services']);">View Services</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="is-medium" id="passion">
+                    <div class="hero is-sky">
+                        <div class="hero-body">
+                            <div class="container">
+                                <div class="columns">
+                                    <div class="column is-4">
+                                        <object type="image/svg+xml" data="/images/buildingBlocks.svg" title="Business building blocks" aria-hidden="false">
+                                            <img src="" alt="BrightDay looks to identify the building blocks to acomplish your goals"/>
+                                        </object>
+                                    </div>
+                                    <div class="column is-8">
+                                        <div class="tile is-ancestor">
+                                            <div class="tile is-parent">
+                                                <div class="is-child">
+                                                    <h3 class="title is-capitalized">professional passion</h3>
+                                                    <p>Identify tools, for formulating important building blocks that can assist the facilitation of effective technology, adaptation, and function.</p>
+                                                    <p>Tailored to client needs; building value through provided insight, understanding, and communicated pathways to your determined business goals.</p>
+                                                    <p>Focusing on toolsets that work to achieve broader proactive practice and security first design.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </article>
+        </main>
 
-<body>
-  <h1>#(title)</h1>
-</body>
-</html>
+    #endexport
+
+#endextend

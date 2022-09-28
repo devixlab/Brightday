@@ -1,0 +1,24 @@
+#set("newsContent") {
+<article>
+<div class="container">
+<div class="content">
+<h4 class="title is-size-4-desktop is-size-5-touch is-capitalized">
+#(newsTitle)
+</h4>
+<div>
+<p>
+We are excited to release a few new graphics that help to represent our brand. First we have an updated Logo, that we feel offers a cleaner and more idenifiable style for the company. This is the first step in a larger goal that we are in the process of releasing soon.
+</p>
+<p>
+We have also redesigned the banners for both our LinkedIn and Twitter pages, to reflect updated company branding and business themes. These updates are available on our company's social platforms, and can be viewed by following the logo links in our main navigation menu. If you prefer to utilize these platforms, we welcome new followers and are working on becoming more active in this medium.
+</p>
+This is the first in a series of company related updates that we will be announcing in the coming weeks.
+<p>
+</p>
+</div>
+</div>
+</div>
+</article>
+
+}
+#embed("news")

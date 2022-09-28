@@ -1,0 +1,224 @@
+#extend("base"):
+
+    #export("content"):
+
+    <!-- Main Body Page Content -->
+        <main role="main"><br><br>
+            <div class="level titlebar">
+                <div class="level-left">
+                    <div class="level-item">
+                        <p class="has-text-sky">#(pageTitle)</p> <!-- Page title-->
+                    </div>
+                </div>
+            </div>
+            
+            <body>
+                <div class="hero is-sky">
+                    <div class="hero-body">
+                        <div class="container">
+                            <div class="columns">
+                                <div class="column is-12">
+                                    <h1 class="title is-size-4-touch is-size-2-desktop is-uppercase is-spaced">
+                                        Enabling business resource that offers identifiable value and results<span class="is-orange">.</span>
+                                    </h1>
+                                    <h2 class="subtitle is-size-5-touch is-size-4-desktop"><span class="is-yellow">Establish</span>, <span class="is-yellow">enforce</span>, and <span class="is-yellow">expand</span> the building blocks to assist in achieving your goals.</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- End Hero -->
+                <section class="section" id="focus">
+                    <div class="container">
+                        <div class="content">
+                            <h5 class="title is-size-5-desktop is-size-5-touch">
+                            Believing that starting with a strong foundation, and building from established focal area's can lead to greater success and ability to achieve business objectives and goals. A few common base building blocks can be found below.
+                            </h5>
+                        </div>
+                    </div>
+                    <div class="tags has-addons is-centered" aria-label="Common focal topics" aria-hidden="true">
+                        <a class="tablinks" onclick="openService(event, 'defaultMsg')">
+                            <span class="tag is-dark">Select</span><span class="tag is-info">Focal Topic</span>
+                        </a>
+                    </div>
+                    <div class="tabs is-medium is-toggle is-boxed is-centered">
+                        <ul>
+                            <li>
+                                <a class="tablinks" onclick="openService(event, 'proactive')">Proactive</a>
+                            </li>
+                            
+                            <li>
+                                <a class="tablinks" onclick="openService(event, 'security')">Security</a>
+                            </li>
+                            <li>
+                                <a class="tablinks" onclick="openService(event, 'communication')">Communication</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="container">
+                        <!-- Building Blocks Tab Content -->
+                        <div class="tabcontent active" id="defaultMsg">
+                            <div class="columns">
+                                <div class="column is-11 is-offset-1">
+                                    <div class="content">
+                                        <p class="title is-size-4-touch is-size-3-desktop">
+                                        Accomplish more with solid foundations to build upon.
+                                        </p>
+                                        <p class="subtitle is-size-5-touch is-size-4-desktop">
+                                        Identify the primary blocks that form the principles of solid business practice and continued growth.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tabcontent" id="proactive">
+                            <div class="columns">
+                                <div class="column is-11 is-offset-1">
+                                    <div class="content">
+                                        <p class="title is-size-4-touch is-size-3-desktop">
+                                        Experience the benefits of proactive business practices.
+                                        </p>
+                                        <p class="subtitle is-size-5-touch is-size-4-desktop">
+                                        Reduce the unknown, limit unexpected expense, and work to increase capability, adaptability, and durability.
+                                        </p>
+                                    </div>
+                                    <div class="columns is-mobile">
+                                        <div class="column is-1-mobile is-4-touch is-2-desktop">
+                                            <object type="image/svg+xml" data="/images/targetGoalBlock.svg" title="Work that we do, thru services offered by BrightDay Technology">
+                                                services token image
+                                            </object>
+                                            <h5 class="has-text-centered">Prepare</h5>
+                                        </div>
+                                        <div class="column is-1-mobile is-4-touch is-2-desktop">
+                                            <object type="image/svg+xml" data="/images/roadMapBlock.svg" title="Work that we do, thru services offered by BrightDay Technology">
+                                                services token image
+                                            </object>
+                                            <h5 class="has-text-centered">Strategy</h5>
+                                        </div>
+                                        <div class="column is-1-mobile is-4-touch is-2-desktop">
+                                            <object type="image/svg+xml" data="/images/adjustDataBlock.svg" title="Work that we do, thru services offered by BrightDay Technology">
+                                                services token image
+                                            </object>
+                                            <h5 class="has-text-centered">Adjust</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tabcontent" id="security">
+                            <div class="columns">
+                                <div class="column is-11 is-offset-1">
+                                    <div class="content">
+                                        <p class="title is-size-4-touch is-size-3-desktop">
+                                        Value and protect the resources that you have, thru security first design and practice.
+                                        </p>
+                                        <p class="subtitle is-size-5-touch is-size-4-desktop">
+                                        Mitigate risk, limit exposure, and work to increase awareness, accountability, and integrity.
+                                        </p>
+                                    </div>
+                                    <div class="columns is-mobile">
+                                        <div class="column is-1-mobile is-4-touch is-2-desktop">
+                                            <object type="image/svg+xml" data="/images/secureBlock.svg" title="Work that we do, thru services offered by BrightDay Technology">
+                                                services token image
+                                            </object>
+                                            <h5 class="has-text-centered">Secure</h5>
+                                        </div>
+                                        <div class="column is-1-mobile is-4-touch is-2-desktop">
+                                            <object type="image/svg+xml" data="/images/authenticateBlock.svg" title="Work that we do, thru services offered by BrightDay Technology">
+                                                services token image
+                                            </object>
+                                            <h5 class="has-text-centered">Verify</h5>
+                                        </div>
+                                        <div class="column is-1-mobile is-4-touch is-2-desktop">
+                                            <object type="image/svg+xml" data="/images/privacyBlock.svg" title="Work that we do, thru services offered by BrightDay Technology">
+                                                services token image
+                                            </object>
+                                            <h5 class="has-text-centered">Protect</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tabcontent" id="communication">
+                            <div class="columns">
+                                <div class="column is-11 is-offset-1">
+                                    <div class="content">
+                                        <p class="title is-size-4-touch is-size-3-desktop">
+                                        Discussion, expression, and comprehension of intent used for greater and effective communication.
+                                        </p>
+                                        <p class="subtitle is-size-5-touch is-size-4-desktop">
+                                        Reduction of misalignment, repetitive problems, and work toward maximize the timely application to adaptation and progression of business challenges.
+                                        </p>
+                                    </div>
+                                    <div class="columns is-mobile">
+                                        <div class="column is-1-mobile is-4-touch is-2-desktop">
+                                            <object type="image/svg+xml" data="/images/bidirectionalCommunicationBlock.svg" title="Work that we do, thru services offered by BrightDay Technology">
+                                                services token image
+                                            </object>
+                                            <h5 class="has-text-centered">2-way</h5>
+                                        </div>
+                                        <div class="column is-1-mobile is-4-touch is-2-desktop">
+                                            <object type="image/svg+xml" data="/images/shareBlock.svg" title="Work that we do, thru services offered by BrightDay Technology">
+                                                services token image
+                                            </object>
+                                            <h5 class="has-text-centered">Share</h5>
+                                        </div>
+                                        <div class="column is-1-mobile is-4-touch is-2-desktop">
+                                            <object type="image/svg+xml" data="/images/informationBlock.svg" title="Work that we do, thru services offered by BrightDay Technology">
+                                                services token image
+                                            </object>
+                                            <h5 class="has-text-centered">Information</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
+                <section class="is-medium" id="benefit">
+                    <div class="hero is-sky">
+                        <div class="hero-body">
+                            <div class="container">
+                                <div class="columns">
+                                    <div class="column is-12">
+                                        <div class="tile is-ancestor">
+                                            <div class="tile is-parent">
+                                                <div class="is-child">
+                                                    <h3 class="title is-size-4-mobile is-uppercase">Our goal is to enable thru effective use of technology.</h3>
+                                                    <h4 class="subtitle is-size-5-touch is-size-4-desktop">When viewed as a business tool, technology needs purpose.</h4>
+                                                    <div class="content">
+                                                        <p>
+                                                        A tool's function is directly related to the capability of the users skill to wield said tool. We look to enhance, and empower your capacity to achieve more thru:
+                                                        </p>
+                                                        <ul>
+                                                            <li>
+                                                                <p>
+                                                                <span class="standoutText">Partnering</span> with your team, to identify options that achieve your determined needs. Providing data and actionable information so that you can make informed decisions that benefits your business.
+                                                                </p>
+                                                            </li>
+                                                            <li>
+                                                                <p>
+                                                                <span class="standoutText">Supplementing</span> limited, overextended, and underrepresented resources, allowing for ability, growth at the pace of your choosing.
+                                                                </p>
+                                                            </li>
+                                                            <li>
+                                                                <p>
+                                                                <span class="standoutText">Helping</span> organization’s in realizing that the use and user of the tool has a direct impact on success and ROI for any solution.
+                                                                </p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </body>
+        </main>
+#endexport
+
+#endextend
