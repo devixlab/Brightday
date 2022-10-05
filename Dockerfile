@@ -102,6 +102,6 @@ EXPOSE 8080
 EXPOSE 80
 EXPOSE 443
 
-ENTRYPOINT ["./Run"]
+# ENTRYPOINT ["./Run"]
 CMD ["serve", "--env", "production", "--hostname", "0.0.0.0", "--port", "8080"]
 

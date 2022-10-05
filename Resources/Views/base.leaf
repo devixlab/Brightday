@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://ogp.me/ns#">
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81184015-3"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            
+            gtag('config', 'UA-81184015-3');
+        </script>
+        <script>
+            // Feature detects Navigation Timing API support.
+            if (window.performance) {
+                // Gets the number of milliseconds since page load
+                // (and rounds the result since the value must be an integer).
+                var timeSincePageLoad = Math.round(performance.now());
+                
+                // Sends the timing event to Google Analytics.
+                gtag('event', 'timing_complete', {
+                     'name': 'load',
+                     'value': timeSincePageLoad,
+                     'event_category': 'JS Dependencies'
+                     });
+            }
+        </script>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content= "#(pageKeywords)">
+        <meta name="description" content="#(pageTitle) [#(pageDescription)]">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@Brightday_Info">
+        <meta property="og:title" content="Bright Day Technology">
+        <meta property="og:description" content="Providing personalized modern technology tools and solutions for your determined goals.">
+        <meta property="og:image" content="https://brightday.tech/images/Twitter-Logo.png">
+            <title>#(pageTitle) | BrightDay Technology</title> <!-- Page Title -->
+            <!-- Style Sheet Link -->
+            <link rel="stylesheet" href="styles/main.css">
+            <!-- Favicon for site -->
+            <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico"/>
+        
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "Organization",
+                "url": "https://brightday.tech",
+                "logo": "/images/companyLogo.png"
+            }
+        </script>
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "Organization",
+                "name": "Bright Day Technology",
+                "url": "https://brightday.tech",
+                "sameAs": [
+                           "https://twitter.com/BrightDay_Info",
+                           "http://www.linkedin.com/company/brightday-technology"
+                           ]
+            }
+        </script>
+    </head>
+    <body class="has-navbar-fixed-top">
+        <header>
+            <!-- Main Navbar begin -->
+            <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+                <div class="navbar-brand">
+                    <a class="navbar-item" href="https://brightday.tech">
+                        <object class="logoHolder" type="image/svg+xml" data="/images/companyLogo.svg" title="Company Logo">
+                            <img src="/images/companyLogo.png" alt="BrightDay Company Logo"/>
+                        </object>
+                    </a>
+                    <!-- Menu for small screens -->
+                    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarMain">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
+                </div>
+                <!-- Navbar Menu Items -->
+                <div id="navbarMain" class="navbar-menu">
+                    <div class="navbar-start">
+                        <a class="navbar-item #if(pageTitle == "Home page"){is-active is-tab}" href="/">
+                            Home
+                        </a>
+                        
+                        <a class="navbar-item #if(pageTitle == "Services"){is-active is-tab}" href="/services">
+                            <img src="/images/logoIcon.svg" type="image/svg+xml" alt="Brightday Icon"/>&nbsp;
+                            Services
+                        </a>
+                        <!-- Navbar Menu dropdown -->
+                        <div class="navbar-item has-dropdown is-hoverable">
+                            <a class="navbar-link" href="#">
+                                <img src="/images/logoIcon.svg" type="image/svg+xml" alt="BrightDay Icon"/>&nbsp;
+                                Info
+                            </a>
+                            
+                            <div class="navbar-dropdown">
+                                <a class="navbar-item #if(pageTitle == "About"){is-active is-tab}" href="/about">
+                                    About&nbsp;<img src="/images/logoIcon.svg" type="image/svg+xml" alt="BrightDay Icon"/>
+                                </a>
+                                
+                                <a class="navbar-item #if(pageTitle == "FAQ's"){is-active is-tab}" href="/faqs">
+                                    FAQ's&nbsp;<img src="/images/logoIcon.svg" type="image/svg+xml" alt="BrightDay Icon"/>
+                                </a>
+                                <a class="navbar-item #if(pageTitle == "News"){is-active is-tab}" href="/news">
+                                News&nbsp;<img src="/images/logoIcon.svg" type="image/svg+xml" alt="BrightDay Icon"/>
+                                </a>
+                                <hr class="navbar-divider"/>
+                                <a class="navbar-item" href="/privacy">
+                                    Data Privacy Policy
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Navbar rightSide Social Menu Items-->
+                    <div class="navbar-end">
+                        <div class="navbar-item">
+                            <a href="https://twitter.com/BrightDay_Info">
+                                <img class="socialIconNav" src="/images/Twitter_Social_Icon_Square_Color.svg" type="image/svg+xml" alt="Follow us on BrightDay Twitter" title="Our Twitter Feed"/>
+                            </a>
+                            <a href="https://linkedin.com/company/brightday-technology">
+                                <img class="socialIconNav" src="/images/In-2C-128px-R.png" type="image/svg+xml" alt="BrightDay LinkedIn" title="Connect with us on our LinkedIn Page"/>
+                            </a>
+                            <a href="https://keybase.io/brightday">
+                                <img class="socialIconNav" src="/images/KeybaseColor.svg" type="image/svg+xml" alt="BrightDay Keybase" title="Send secure messages text/email using our verified Keybase Info"/>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </nav> <!-- End Navbar -->
+        </header>
+        <!-- Content Template -->
+        #import("content")
+        
+        #extend("footer")
+        
+        <!-- Cookie consent -->
+        #if(showCookieMessage):
+        <div id="cookie-msg" class="is-fixed-bottom">
+            <div id="cookieMessage" class="cookieConsent">
+                <span class="muted">
+                    This site makes use of cookies. Learn why and how we utilize them in our <a href="/privacy">Data Policy</a> To accept this, click <a href="#" onclick="cookiesConfirmed()">OK</a>
+                </span>
+            </div>
+        </div>
+        <script type="text/javascript" src="scripts/cookies.js"></script>
+        #endif
+        <!-- load script files -->
+        <script type="text/javascript" src="scripts/main.js"></script>
+        
+
+        <!-- External Script files -->
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    </body>
+</html>
+
